@@ -17,7 +17,7 @@ Modern, flexible & lightweight **selectable toolbar** widgets for Flutter — bu
 ```yaml
 dependencies:
   axtoolbar:
-    path: ../axtoolbar # or git/pub.dev once published
+    path: ../axtoolbar 
 ```
 
 ## Quick start
